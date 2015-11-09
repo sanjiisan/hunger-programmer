@@ -24,6 +24,7 @@
 
 # Assets and user uploads
 /web/bundles/
+/web/lib/
 /web/uploads/
 
 # PHPUnit
@@ -35,3 +36,6 @@
 
 # Composer PHAR
 /composer.phar
+
+# IDE
+/.idea/
